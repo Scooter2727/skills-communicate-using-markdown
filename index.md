@@ -6,3 +6,7 @@
 ```
 print("Hello World")
 ```
+
+- [ ] Study for midterms
+- [x] Finish CS assignment
+- [x] Stay on top of club work
